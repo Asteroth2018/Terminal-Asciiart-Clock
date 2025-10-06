@@ -1,6 +1,6 @@
-Ascii art clock and date made in python for terminal.
+Ascii art clock (analog + digital) made in python for terminal.
 
-It shows an analog clock and date made with ascii art letters.
+It shows an analog and digital clock made with ascii art letters.
 
 No requirements just run with python in your terminal!!!
 
